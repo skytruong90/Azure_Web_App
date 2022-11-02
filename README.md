@@ -1,8 +1,12 @@
 # What is this?
-This is a virtual environment using Azure. I learn how to set up a virtual environment that run active directory and creating a bunch of users in that with PowerShell.
+This is a web application that I put into the Microsoft Azure Cloud system where I used bash terminal and Azure cloud services in order to demonstrate my knowledge of the Azure plateform. 
 
 # What does this do?
+It utilize the cloud platform and shows that you can use it for your business for a cost efficient way of storing and expanding your network.
 
 # Installation:
+You can try it for yourself if you clone this repo into your azure plateform and try running it.
 
-# How To Use:
+# Live Demo:
+https://www.youtube.com/watch?v=vZaZojSo7cM
+
